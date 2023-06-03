@@ -1,0 +1,336 @@
+Watch the videos listed below and answer the associated questions. They are worth 3 points each with the exception of #33 which is worth 4 points.
+
+Video:
+
+Lambda Calculus - Computerphile (12:39)
+
+Lambda Calculus - ComputerphileLinks to an external site.
+Lambda Calculus - Computerphile
+
+ 
+
+ 
+
+1) Why should you be interested in learning about Lambda Calculus?
+
+ 
+
+2) How do you encode the concepts of TRUE,  FALSE, NOT, AND, OR?
+
+ 
+
+Video:
+
+Essentials: Functional Programming's Y Combinator - Computerphile (13:25)
+
+Essentials: Functional Programming&#39;s Y Combinator - ComputerphileLinks to an external site.
+Essentials: Functional Programming&#39;s Y Combinator - Computerphile
+
+ 
+
+ 
+
+3) What is important about the  Lambda Calculus expression called 'Y Combinator'?
+
+ 
+
+4) Write the Y Combinator expression in Lambda Calculus.
+
+ 
+
+Video:
+
+Functional Programming & Haskell - Computerphile (9:18)
+
+Functional Programming &amp; Haskell - ComputerphileLinks to an external site.
+Functional Programming &amp; Haskell - Computerphile
+
+ 
+
+ 
+
+5) Where did the language 'Haskell' get its name?
+
+ 
+
+6) In the video it was mentioned that Erlang was used to code what?
+
+ 
+
+ 
+
+Video:
+
+Programming Paradigms - Computerphile (10:43)
+
+Programming Paradigms - ComputerphileLinks to an external site.
+Programming Paradigms - Computerphile
+
+ 
+
+ 
+
+7) How is 'pattern matching' used?
+
+ 
+
+ 
+
+Video:
+
+P vs NP on TV - Computerphile (5:48)
+
+P vs NP on TV - ComputerphileLinks to an external site.
+P vs NP on TV - Computerphile
+
+ 
+
+ 
+
+8) Complete this sentence: "NP problems are hard to solve but easy to _____"
+
+ 
+
+9) What is the example of an NP problem used in the video?
+
+ 
+
+10) What are the TV shows mentioned in the video?
+
+ 
+
+ 
+
+Video:
+
+Floating Point Numbers - Computerphile (9:15)
+
+Floating Point Numbers - ComputerphileLinks to an external site.
+Floating Point Numbers - Computerphile
+
+ 
+
+ 
+
+11) Floating point numbers are essentially what?
+
+ 
+
+12) Computers perform scientific notation in what base?
+
+ 
+
+13) What is the problem with adding 1/3 + 1/3 + 1/3 using base 10 and ignoring recurring numbers?
+
+ 
+
+14) What is 1/10 in base 2?
+
+ 
+
+ 
+
+Video:
+
+The Most Difficult Program to Computer? - Computerphile (14:54)
+
+The Most Difficult Program to Compute? - ComputerphileLinks to an external site.
+The Most Difficult Program to Compute? - Computerphile
+
+ 
+
+ 
+
+15) What is the name of the function discussed in the video?
+
+ 
+
+16) Can Ackermann's function be coded using for or 'DO' loops?
+
+ 
+
+17) What is the value of Ackermann(4,1)?
+
+ 
+
+18) How many minutes will the machine in the video take to calculate Ackermann(4,2)
+
+ 
+
+19) The performance characteristic of Ackermann's function is described as what?
+
+ 
+
+ 
+
+ 
+
+Video:
+
+Programming Loops vs Recursion - Computerphile (12:31)
+
+ 
+
+https://www.youtube.com/watch?v=HXNhEYqFo0oLinks to an external site.
+
+ 
+
+ 
+
+ 
+
+ 
+
+20) A loop nested in another loop has the performance characteristic of what?
+
+ 
+
+21) What was the limitation of Fortran mentioned in the video?
+
+ 
+
+22) What real-world use needs complex recursion?
+
+ 
+
+ 
+
+Video:
+
+Why 'C' is so influential - Computerphile (10:50)
+
+Why C is so Influential - ComputerphileLinks to an external site.
+Why C is so Influential - Computerphile
+
+ 
+
+ 
+
+23) There was a need to have a language that could cope with what?
+
+ 
+
+24) C is most powerful when considered as the classical what?
+
+ 
+
+ 
+
+Video:
+
+Essentials: Pointer Power! - Computerphile (20:00)
+
+Essentials: Pointer Power! - ComputerphileLinks to an external site.
+Essentials: Pointer Power! - Computerphile
+
+ 
+
+25)
+
+What are the names of the two fields of the 'THING' structure?
+
+ 
+
+ 
+
+Video:
+
+Triple Ref Pointers - Computerphile (8:27)
+
+Triple Ref Pointers - ComputerphileLinks to an external site.
+Triple Ref Pointers - Computerphile
+
+ 
+
+26)
+
+What is the advantage of the 'Triple Ref Technique'?
+
+ 
+
+ 
+
+Video:
+
+Arrays vs Linked Lists - Computerphile (29:57)
+
+Arrays vs Linked Lists - ComputerphileLinks to an external site.
+Arrays vs Linked Lists - Computerphile
+
+ 
+
+27) What is the procedure  used in the video to compare the different structures?
+
+ 
+
+28) Why is the reverse array faster on the Atari?
+
+ 
+
+ 
+
+ 
+
+Video:
+
+Should Everybody Learn to Code? - Computerphile (8:46)
+
+Should Everybody Learn to Code? - ComputerphileLinks to an external site.
+Should Everybody Learn to Code? - Computerphile
+
+ 
+
+29) What would be the goal of requiring people to be exposed to coding?
+
+ 
+
+ 
+
+Video:
+
+Programming BASIC and Sorting - Computerphile (13:56)
+
+Programming BASIC and Sorting - ComputerphileLinks to an external site.
+Programming BASIC and Sorting - Computerphile
+
+ 
+
+30):
+
+List 3 or more of the different sort algorithms mentioned in the video
+
+ 
+
+ 
+
+Video:
+
+Turing & The Halting Problem - Computerphile  (6:13)
+
+Turing &amp; The Halting Problem - ComputerphileLinks to an external site.
+Turing &amp; The Halting Problem - Computerphile
+
+ 
+
+31)
+
+What is the  'Decision Problem'?
+
+ 
+
+ 
+
+Video:
+
+The Art of Abstraction - Computerphile (5:21)
+
+The Art of Abstraction - ComputerphileLinks to an external site.
+The Art of Abstraction - Computerphile
+
+ 
+
+32) An example of an abstraction used in the video is, "A transistor is a type of ___"?
+
+ 
+
+33) Which video was the most interesting or your favorite?
