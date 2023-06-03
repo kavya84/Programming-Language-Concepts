@@ -1,0 +1,17 @@
+Convert the BASIC code below to a more modern language.  There is no text version available, download the image into whatever graphics tools you prefer to let you see the listing at full scale.
+
+File name must be <NetID>_lab3A.ext
+
+where <NetID> is replaced with your own NetID and the .ext is the proper extension for the language you chose.
+
+Points available: 100
+
+50 for submitting converted code
+
+30 for the grader being able to run it
+
+20 for how readable the resulting code is.  
+
+BONUS: 10 points for keeping it in a more modern BASIC (that allows do/while, etc.)
+
+ 
